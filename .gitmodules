@@ -1,0 +1,6 @@
+[submodule "xfce/xfce-terminal-colors-solarized"]
+	path = xfce/xfce-terminal-colors-solarized
+	url = https://github.com/sgerrand/xfce4-terminal-colors-solarized
+[submodule "kde/konsole-colors-solarized"]
+	path = kde/konsole-colors-solarized
+	url = https://github.com/phiggins/konsole-colors-solarized
