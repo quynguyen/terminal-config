@@ -4,3 +4,12 @@
 [submodule "kde/konsole-colors-solarized"]
 	path = kde/konsole-colors-solarized
 	url = https://github.com/phiggins/konsole-colors-solarized
+[submodule "gnome/gnome-terminal-colors-solarized"]
+	path = gnome/gnome-terminal-colors-solarized
+	url = git@github.com:Anthony25/gnome-terminal-colors-solarized.git
+[submodule "guake/guake-colors-solarized"]
+	path = guake/guake-colors-solarized
+	url = git@github.com:coolwanglu/guake-colors-solarized.git
+[submodule "intellij/intellij-colors-solarized"]
+	path = intellij/intellij-colors-solarized
+	url = git@github.com:jkaving/intellij-colors-solarized.git
